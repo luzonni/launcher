@@ -1,0 +1,22 @@
+{
+  "Modules": [
+    "UI",
+    "Icons"
+  ],
+  "Sprites": {
+    "UI": [
+      {
+        "name": "buttom",
+        "width": 32,
+        "height": 16
+      }
+    ],
+    "Icons": [
+      {
+        "name": "icon_x",
+        "width": 12,
+        "height": 9
+      }
+    ]
+  }
+}
